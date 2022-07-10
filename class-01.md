@@ -4,6 +4,7 @@
 ##### [_Getting Started_](#getting-started-1)
 ##### [_Introduction to HTML_](#introduction-to-html-1)
 ##### [_Miscellaneous_](#miscellaneous-1)
+##### [Things I want to know more about](#things-i-want-to-know-more-about-1)
 ##### [_Side Notes_](#side-notes-1)
 ##### [_Website Development Tools_](#website-development-tools-1)
 ##### [_Website Design Tools_](#website-design-tools-1)
@@ -113,6 +114,9 @@
    - Internal JavaScript \- Using the \<script\> element without a source attribute inside the \<head\> tag.
    - External JavaScript \- Using the \<script\> element without with a source attribute (example: src="script.js") inside the \<head\> tag.
 
+## Things I want to know more about
+   - What is the proper "industry" etiquette for using \<style\> and \<script\>.  The docs mention it is generaly a bad idea not to have dedicated files to these but is there ever an acceptable reason not to?
+  
 #### Side Notes
 - Tags in HTML are not case-sensitive. This means they can be written in uppercase or lowercase. However, it is best practice to write all tags in lowercase for consistency and readability.
 - Block vrs inline elements
