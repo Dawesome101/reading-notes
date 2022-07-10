@@ -1,5 +1,5 @@
 # The Basics of Git - [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-
+## [Home](./README.md)
 ## [_General Info_](#general-info-1)
 ## [_Basic Commands_](#basic-commands-1)
 ## [_Useful Links_](#useful-links-1)
@@ -18,7 +18,7 @@
 - ## Basic Commands
   - **sudo apt-get install git** - Install git for ubuntu.
   - **git config --list** - Check git settings.
-  - **git help command || git command --help || man git-command** - 3 ways to access git help.
+  - **git help command, git command --help, man git-command** - 3 ways to access git help.
 
 - ## Useful Links
   - [Git Pages Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
