@@ -1,5 +1,6 @@
 # The Basics of Git - [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-## [Home](./README.md)
+
+## [HOME](./README.md)
 ## [_General Info_](#general-info-1)
 ## [_Basic Commands_](#basic-commands-1)
 ## [_Useful Links_](#useful-links-1)
