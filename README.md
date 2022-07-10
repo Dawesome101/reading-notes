@@ -33,6 +33,6 @@
 [LinkedIn](https://www.linkedin.com/in/daniel-awesome/)  
 [Twitter](https://twitter.com/DanAwesome101)  
 
-![image](https://github.com/Dawesome101/reading-notes/blob/main/DanAwesomeProfile_Tiny.png)
+![Profile Image](https://github.com/Dawesome101/reading-notes/blob/main/DanAwesomeProfile_Tiny.png)
   
 ##### [<sub>Return To Top</sub>](#code-fellows-reading-notes)
