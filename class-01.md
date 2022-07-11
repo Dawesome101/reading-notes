@@ -151,4 +151,4 @@
      - [List of HTML entities](https://www.freeformatter.com/html-entities.html)
      - [HTML Living Standard](https://html.spec.whatwg.org/multipage/indices.html#element-content-categories)
   
-  ##### [Back to Top](#index)
+##### [<sub>Back To Top</sub>](#index)
