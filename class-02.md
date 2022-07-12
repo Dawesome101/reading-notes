@@ -10,7 +10,7 @@
 ### [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals) and [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
     
    1. Why is it important to use semantic elements in our HTML?
-      - SEO, Screen readers, expected behaviours.  We need to make sure we are using the correct elements, giving our content the correct meaning, function, or appearance.
+      - SEO, Screen readers, expected behaviors.  We need to make sure we are using the correct elements, giving our content the correct meaning, function, or appearance.
    2. How many levels of headings are there in HTML?
       - There are six heading elements: `<h1>` `<h2>` `<h3>` `<h4>` `<h5>` and `<h6>`. Each element represents a different level of content in the document; `<h1>` represents the main heading, `<h2>` represents subheadings, `<h3>` represents sub-subheadings, and so on.
       - Preferably, you should use a single `<h1>` per page.
@@ -101,7 +101,7 @@
      - `||` OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
 ## Things I want to know more about
-- when if ever is it ok to use inline styles?
+- When if ever is it ok to use inline styles?
 
 [<sub>Back to Top</sub>](#basics-of-html-css-and-js)
 
