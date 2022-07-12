@@ -1,4 +1,4 @@
-# Basics of HTML, CSS & JS
+# Basics of HTML, CSS and JS
 ## Index
 ##### [Introduction to HTML (Cont.)](#introduction-to-html-cont-1)
 ##### [Learn CSS](#learn-css-1)
@@ -7,7 +7,7 @@
 ##### [Things I want to know more about](#things-i-want-to-know-more-about-1)
 
 ## Introduction to HTML (Cont.)
-### [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals) & [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
+### [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals) and [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
     
    1. Why is it important to use semantic elements in our HTML?
       - SEO, Screen readers, expected behaviours.  We need to make sure we are using the correct elements, giving our content the correct meaning, function, or appearance.
@@ -29,8 +29,8 @@
         - Inside a subdirectory called general, which is in a subdirectory called styles, inside the current directory `<link rel="stylesheet" href="styles/general/style.css">`
         - Go up one directory level, then inside a subdirectory called styles `<link rel="stylesheet" href="../styles/style.css">`
       - Internal stylesheets
-      ```
-      <html>
+
+        ```
         <head>
           <meta charset="utf-8">
           <title>My CSS experiment</title>
@@ -46,12 +46,7 @@
             }
           </style>
         </head>
-        <body>
-          <h1>Hello World!</h1>
-          <p>This is my first CSS example</p>
-        </body>
-      </html>
-      ```
+        ```  
       - Inline stylesheets
         - `<h1 style="color: blue;background-color: yellow;border: 1px solid black;">Hello World!</h1>` or `<p style="color:red;">This is my first CSS example</p>`
    2. Why should we avoid using inline styles?
@@ -108,6 +103,6 @@
 ## Things I want to know more about
 - when if ever is it ok to use inline styles?
 
-[<sub>Back to Top</sub>](#basics-of-html-css--js)
+[<sub>Back to Top</sub>](#basics-of-html-css-and-js)
 
 
