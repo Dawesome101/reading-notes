@@ -1,15 +1,21 @@
 # Code Fellows Reading Notes
+
 ## [__Contact Dan Awesome__](#contact-info)
 
-### [_Prework from Code 102_](#prework-from-code-102-1)
-### [_Code 201 Reading Notes_](#code-201-reading-notes-1)
+[_Prework from Code 102_](#prework-from-code-102-1)
+
+[_Code 201 Reading Notes_](#code-201-reading-notes-1)
 
 ## Prework from Code 102
-<sub>Having tested into 201, these are notes compiled while going over the prework derived from 102's overview information.</sub>
+
+Having tested into 201, these are notes compiled while going over the prework derived from 102's overview information.
+
 - [_Practicing the Terminal_](./terminal-practice.md)
+
 - [_The Basics of GIT_](./basics-of-git.md)
 
 ## Code 201 Reading Notes
+
 - [Class Reading 01:](./class-01.md)
 - [Class Reading 02:](./class-02.md)
 - [Class Reading 03:](./class-03.md)
@@ -27,6 +33,7 @@
 - [Class Reading 15:](./class-15.md)
 
 ### Contact Info
+
 [Email](mailto:dawesome@danawesome.com)  
 [Website](https://www.danawesome.com/)  
 [GitHub](https://github.com/Dawesome101)  
@@ -35,4 +42,4 @@
 
 ![Profile Image](./DanAwesomeProfile_Tiny.png)
   
-##### [<sub>Back To Top</sub>](#code-fellows-reading-notes)
+[Back To Top](#code-fellows-reading-notes)
