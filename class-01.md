@@ -1,14 +1,14 @@
 # Index
 
 [Home](./README.md)  
-[_What is The Web_](#what-is-the-web-1)  
-[_Getting Started_](#getting-started-1)
-[_Introduction to HTML_](#introduction-to-html-1)
-[_Miscellaneous_](#miscellaneous-1)
-[Things I want to know more about](#things-i-want-to-know-more-about-1)
-[_Side Notes_](#side-notes-1)
-[_Website Development Tools_](#website-development-tools-1)
-[_Website Design Tools_](#website-design-tools-1)
+[_What is The Web_](#what-is-the-web)  
+[_Getting Started_](#getting-started)
+[_Introduction to HTML_](#introduction-to-html)
+[_Miscellaneous_](#miscellaneous)
+[Things I want to know more about](#things-i-want-to-know-more-about)
+[_Side Notes_](#side-notes)
+[_Website Development Tools_](#website-development-tools)
+[_Website Design Tools_](#website-design-tools)
 
 ## [What is the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 

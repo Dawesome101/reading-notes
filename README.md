@@ -2,9 +2,8 @@
 
 ## [__Contact Dan Awesome__](#contact-info)
 
-[_Prework from Code 102_](#prework-from-code-102-1)
-
-[_Code 201 Reading Notes_](#code-201-reading-notes-1)
+[_Prework from Code 102_](#prework-from-code-102)
+[_Code 201 Reading Notes_](#code-201-reading-notes)
 
 ## Prework from Code 102
 

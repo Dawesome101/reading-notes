@@ -1,10 +1,10 @@
 # Practicing the Terminal - [Linux Tutorials](https://ryanstutorials.net/linuxtutorial)
 
 [HOME](./README.md)
-[_General Info_](#general-info-1)
-[_Basic Commands_](#basic-commands-1)
-[_Tips_](#tips-1)
-[_Important Directories_](#important-directories-1)
+[_General Info_](#general-info)
+[_Basic Commands_](#basic-commands)
+[_Tips_](#tips)
+[_Important Directories_](#important-directories)
 
 ## General Info
 

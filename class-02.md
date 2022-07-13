@@ -3,14 +3,10 @@
 ## Index
 
 [Home](./README.md)
-
-[Introduction to HTML (Cont.)](#introduction-to-html-cont-1)
-
-[Learn CSS](#learn-css-1)
-
-[Learn JS](#learn-js-1)
-
-[Things I want to know more about](#things-i-want-to-know-more-about-1)
+[Introduction to HTML (Cont.)](#introduction-to-html-cont)
+[Learn CSS](#learn-css)
+[Learn JS](#learn-js)
+[Things I want to know more about](#things-i-want-to-know-more-about)
 
 ## Introduction to HTML (Cont.)
 

@@ -3,9 +3,9 @@
 ## Index
 
 [Home](./README.md)  
-[Learn HTML](#learn-html-1)  
-[Learn CSS](#learn-css-1)  
-[Learn JS](#learn-js-1)  
+[Learn HTML](#learn-html)  
+[Learn CSS](#learn-css)  
+[Learn JS](#learn-js)  
 
 ## [Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
