@@ -2,6 +2,24 @@
 
 ## Index
 
+[HOME](./README.md)
+[Learn HTML](#learn-html)
+
+- [Creating Hyperlinks](#creating-hyperlinks)
+
+[CSS Layout](#css-layout)
+
+- [CSS Layout: Normal Flow](#css-layout-normal-flow)
+- [CSS Layout: Positioning](#css-layout-positioning)
+
+[Learn JS](#learn-js)
+
+- [Functions - Reusable Blocks of Code](#functions---reusable-blocks-of-code)
+
+[Miscellaneous](#miscellaneous)
+
+- [6 Reasons for Pair Programming](6-reasons-for-pair-programming)
+
 ## [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ### [Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
@@ -80,5 +98,5 @@
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
    - Learning from fellow students
      - Something I've picked up over time is that people often interperate information and derived meaning differently.  That is not to say that one interpretation is more correct than the other, but that the understandings we reach are often relative.  Pairing up with people helps me to see problems from angles I wouldn't normally be able to on my own.
-     - Job interview readiness
-       - Job interviews almost always require showing off your ability to do the job.  Some places even want to pair you up with employees to see if you fit the culture.  Pair programming gets you aclimated and even used to being able to be focused and productive with other people watching exactly what it is that you do.  This builds confidence and understand for one another.  More often then not, people will build healthy work relationships by working together and pair programming is a solid way to achive just that.
+   - Job interview readiness
+     - Job interviews almost always require showing off your ability to do the job.  Some places even want to pair you up with employees to see if you fit the culture.  Pair programming gets you aclimated and even used to being able to be focused and productive with other people watching exactly what it is that you do.  This builds confidence and understand for one another.  More often then not, people will build healthy work relationships by working together and pair programming is a solid way to achive just that.
