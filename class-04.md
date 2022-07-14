@@ -2,7 +2,7 @@
 
 ## Index
 
-[HOME](./README.md)
+[HOME](./README.md)  
 [Learn HTML](#learn-html)
 
 - [Creating Hyperlinks](#creating-hyperlinks)
@@ -18,7 +18,7 @@
 
 [Miscellaneous](#miscellaneous)
 
-- [6 Reasons for Pair Programming](6-reasons-for-pair-programming)
+- [6 Reasons for Pair Programming](#6-reasons-for-pair-programming)
 
 ## [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
