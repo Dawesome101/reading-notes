@@ -12,7 +12,7 @@
 - [How To Structure A Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
 
 1. Why are forms so important in web development?
-   - Web forms are one of the main points of interaction between a user and a web site or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage, or used on the client-side to immediately update the interface in some way (for example, add another item to a list, or show or hide a UI feature). A web form's HTML is made up of one or more form controls (sometimes called widgets), plus some additional elements to help structure the overall form — they are often referred to as HTML forms. 
+   - Web forms are one of the main points of interaction between a user and a web site or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage, or used on the client-side to immediately update the interface in some way (for example, add another item to a list, or show or hide a UI feature). A web form's HTML is made up of one or more form controls (sometimes called widgets), plus some additional elements to help structure the overall form — they are often referred to as HTML forms.
    - The controls can be:
      - Single or multi-line text fields
      - Dropdown boxes
@@ -23,7 +23,7 @@
 2. When designing a form, what are some key things to keep in mind when it comes to user experience?
    - Before starting to code, it's always better to step back and take the time to think about your form.
    - Designing a quick mockup will help you to define the right set of data you want to ask your user to enter.
-   - From a user experience (UX) point of view, it's important to remember that the bigger your form, the more you risk frustrating people and losing users. 
+   - From a user experience (UX) point of view, it's important to remember that the bigger your form, the more you risk frustrating people and losing users.
    - Keep it simple and stay focused: **ask only for the data you absolutely need**.
 3. List 5 form elements and explain their importance.
    1. [\<form\>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) The `<form>` HTML element represents a document section containing interactive controls for submitting information.
