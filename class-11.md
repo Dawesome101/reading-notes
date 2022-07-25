@@ -41,6 +41,7 @@
   <div class="item item-2"> </div>
   <div class="item item-3"> </div>
 </div>
+```
 
 - Grid Item
 
