@@ -39,6 +39,6 @@ Having tested into 201, these are notes compiled while going over the prework de
 [LinkedIn](https://www.linkedin.com/in/daniel-awesome/)  
 [Twitter](https://twitter.com/DanAwesome101)  
 
-![Profile Image](./DanAwesomeProfile_Tiny.png)
+![Profile Image](img/DanAwesomeProfile_Tiny.png)
   
 [Back To Top](#code-fellows-reading-notes)
