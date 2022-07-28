@@ -28,7 +28,8 @@ Having tested into 201, these are notes compiled while going over the prework de
 - [Class Reading 11:](./class-11.md)
 - [Class Reading 12:](./class-12.md)
 - [Class Reading 13:](./class-13.md)
-- [Class Reading 14:](./class-14.md)
+- [Class Reading 14a:](./class-14a.md)
+- [Class Reading 14b:](./class-14b.md)
 - [Class Reading 15:](./class-15.md)
 
 ### Contact Info
