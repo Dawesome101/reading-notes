@@ -1,9 +1,8 @@
-
 # Debugging
 
 ## Index
 
-[Home](./README.md)  
+[Home](../README.md)  
 [What Went Wrong? Troubleshooting JavaScript](#what-went-wrong-troubleshooting-javascript)  
 [The JavaScript Debugger](#the-javascript-debugger)
 

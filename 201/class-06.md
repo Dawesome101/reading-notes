@@ -2,7 +2,7 @@
 
 ## Index
 
-[Home](./README.md)  
+[Home](../README.md)  
 [JavaScript Object Basics](#javascript-object-basics)  
 [Introduction to the DOM](#introduction-to-the-dom)  
 

@@ -2,7 +2,7 @@
 
 ## Index
 
-[Home](./README.md)  
+[Home](../README.md)  
 [HTML Forms](#html-forms)  
 [Learn JS](#learn-js)  
 

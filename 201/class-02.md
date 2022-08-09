@@ -2,7 +2,7 @@
 
 ## Index
 
-[Home](./README.md)  
+[Home](../README.md)  
 [Introduction to HTML (Cont.)](#introduction-to-html-cont)  
 [Learn CSS](#learn-css)  
 [Learn JS](#learn-js)  

@@ -2,7 +2,7 @@
 
 ## Index
 
-[Home](README.md)  
+[Home](../README.md)  
 [Local Storage and How to Use it on Websites](#local-storage-and-how-to-use-it-on-websites)  
 
 ## [Local Storage and How to Use it on Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
