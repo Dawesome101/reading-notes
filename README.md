@@ -35,7 +35,6 @@ Having tested into 201, these are notes compiled while going over the prework de
 - [Class Reading 13:](./201/class-13.md)
 - [Class Reading 14a:](./201/class-14a.md)
 - [Class Reading 14b:](./201/class-14b.md)
-- [Class Reading 15:](./201/class-15.md)
 
 ## Code 301 Intermediate Software Development
 
@@ -58,8 +57,7 @@ Having tested into 201, these are notes compiled while going over the prework de
 - [Class Reading 11:](./301/class-11.md)
 - [Class Reading 12:](./301/class-12.md)
 - [Class Reading 13:](./301/class-13.md)
-- [Class Reading 14a:](./301/class-14a.md)
-- [Class Reading 14b:](./301/class-14b.md)
+- [Class Reading 14:](./301/class-14.md)
 - [Class Reading 15:](./301/class-15.md)
 
 ## Code 401 Advanced Software Development
