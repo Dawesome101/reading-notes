@@ -2,7 +2,7 @@
 
 ## Index
 
- [Home](README.md)  
+ [Home](../README.md)  
  [JavaScript Canvas](#javascript-canvas)  
  [Chart.js Documentation](#chartjs-documentation)  
  [Easily Create Stunning Animated Charts with Chart.js](#easily-create-stunning-animated-charts-with-chartjs)  

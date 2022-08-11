@@ -2,7 +2,7 @@
 
 ## Index
 
-[Home](README.md)  
+[Home](../README.md)  
 [CSS Transforms](#css-transforms)  
 [CSS Transitions & Animations](#css-transitions--animations)  
 [8 simple CSS3 transitions that will wow your users](#8-simple-css3-transitions-that-will-wow-your-users)  

@@ -1,6 +1,6 @@
 # Index
 
-[Home](./README.md)  
+[Home](../README.md)  
 [_What is The Web_](#what-is-the-web)  
 [_Getting Started_](#getting-started)  
 [_Introduction to HTML_](#introduction-to-html)  

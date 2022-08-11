@@ -2,7 +2,7 @@
 
 ## Index
 
-[Home](README.md)  
+[Home](../README.md)  
 [Video and Audio Content](#video-and-audio-content)  
 [A Complete Guide to Grid](#a-complete-guide-to-grid)  
 [Responsive Images](#responsive-images)  

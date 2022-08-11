@@ -2,7 +2,7 @@
 
 ## Index
 
-[Home](./README.md)  
+[Home](../README.md)  
 [Domain Modeling](#domain-modeling)  
 [HTML Table Basics](#html-table-basics)  
 [Introducing Constructors](#introducing-constructors)  

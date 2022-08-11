@@ -2,7 +2,7 @@
 
 ## Index
 
-[HOME](./README.md)  
+[HOME](../README.md)  
 [Learn HTML](#learn-html)
 
 - [Creating Hyperlinks](#creating-hyperlinks)

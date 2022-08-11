@@ -2,7 +2,7 @@
 
 ## Index
 
-[HOME](./README.md)  
+[HOME](../README.md)  
 
 [HTML Media](#html-media)
 

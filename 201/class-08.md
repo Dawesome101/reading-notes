@@ -2,7 +2,7 @@
 
 ## Index
 
-[Home](./README.md)  
+[Home](../README.md)  
 [Learn CSS - Flexbox](#learn-css---flexbox)  
 [CSS Layout - Flexbox](#css-layout---flexbox)
 
