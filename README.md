@@ -2,9 +2,11 @@
 
 ## [Contact Dan Awesome](#contact-info)
 
+## Index
+
 [Code 101 & 102](#code-101--102)  
 [Code 201 Intro to Software Development](#code-201-intro-to-software-development)  
-[Code 301 Intermediate Software Development](#code-301-intermediate-software-development)
+[Code 301 Intermediate Software Development](#code-301-intermediate-software-development)  
 [Code 401 Advanced Software Development](#code-401-advanced-software-development)
 
 ## Code 101 & 102
