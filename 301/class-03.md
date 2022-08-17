@@ -5,6 +5,7 @@
 [Home](../README.md)  
 [React Docs - lists and keys](#react-docs--lists-and-keys)  
 [The Spread Operator](#the-spread-operator)  
+[How to Pass Functions Between Components](#how-to-pass-functions-between-components)  
 
 ## [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
@@ -65,5 +66,16 @@
     const superFooBar {...super, ...foo, bar: () => {console.log('bar'.repeat(5))}}
     superFooBar.bar() //barbarbarbarbar
     ```
+
+## [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+
+1. In the video, what is the first step that the developer does to pass functions between components?
+   - Create a function where ever the state is that you're going to change.
+2. In your own words, what does the increment function do?
+   - It creates a new arry out of state `people: \[a,b,c,d,e\]` by looping through it using the map method.  Each iteration, it checks `.name` to see if it's equal to the name passed into the increment function.  If it is the name passed into the increment function, then it increments the count: `value` by one.
+3. How can you pass a method from a parent component into a child component?
+   - First you'll need to make a object and store the method `object={this.myMethod}` From inside the child, you create a constructor `constructor(props)` and call `super(props)` to get access to all the properties of its parrent.  Then you can access it using the this keyword. `this.props.myMethod(pass in value here)`
+4. How does the child component invoke a method that was passed to it from a parent component?
+   - `this.props.myMethod(pass in value here)`
 
 [Back To Top](#index)
