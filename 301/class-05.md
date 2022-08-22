@@ -32,5 +32,5 @@
    - This is a function calculating data to return a value.  It's an algebra machine that figures out which value is bigger than the other and returns a true or false (boolean) based on the criteria.
 3. Explain how either `map` or `reduce` operates, with regards to higher-order functions.
    - Map and reduce are entirely dependant on higher-order functions.  This question is silly, it is a question that doesn't need an answer.  Since I must, they use higher-order functions to calculate and transform data.
-   
+
 [Back To Top](#index)
