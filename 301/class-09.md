@@ -6,7 +6,7 @@
 [Functional Programming Concepts](#functional-programming-concepts)  
 [Node JS Tutorial for Beginners - Modules and Require()](#node-js-tutorial-for-beginners---modules-and-require)
 
-[Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+## [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
 1. What is functional programming?
    - Functional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data - Wikipedia
@@ -21,7 +21,7 @@
    - Basically, if a function consistently yields the same result for the same input, it is referentially transparent.
    - `pure functions + immutable data = referential transparency`
 
-[Node JS Tutorial for Beginners - Modules and Require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
+## [Node JS Tutorial for Beginners - Modules and Require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
 1. What is a module?
    - Snipits of single functions/behaviors.  Small bits of codues that are simply small javascript files.
