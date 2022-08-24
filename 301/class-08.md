@@ -5,7 +5,7 @@
 [Home](../README.md)  
 [API Design Best Practices](#api-design-best-practices)
 
-[API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+## [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 1. What does REST stand for?
    -Representational State Transfer
