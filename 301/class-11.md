@@ -73,4 +73,5 @@ Videos
    - There is no clear winner. The only place you'll start running into a need to answer this question is when your database is extremely large. Ultimately, it's about what your needs are.  Each has it strengths.  Most companies that need databases use both SQL and NoSQL depending on the problem being solved.
 9. What is the disadvantage of a NoSQL database?
    - You must update all collections and may have duplicate data.  Updating info has to be updated in all collections.
+
 [Back To Top](#index)
