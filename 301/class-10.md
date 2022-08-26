@@ -3,7 +3,6 @@
 ## Index
 
 [Home](../README.md)  
-
 [Understanding the JavaScript Call Stack](#understanding-the-javascript-call-stack)  
 [JavaScript Error Messages](#javascript-error-messages)  
 
