@@ -3,7 +3,6 @@
 ## Index
 
 [Home](../README.md)  
-
 [SQL and NoSQL](#sql-and-nosql)  
 [SQL vs NoSQL (Video)](#sql-vs-nosql-video)
 
@@ -66,7 +65,7 @@ Videos
 5. What is a NoSQL database?
    - NoSQL database queries are focused on collection of documents. Sometimes it is also called as UnQL (Unstructured Query Language)
 6. How does it work?
-   - Databases of collections with documentments that can use different fields (no schema).  No relations (kind of).
+   - Databases of collections with documents that can use different fields (no schema).  No relations (kind of).
 7. What is inside of a Mongo database?
    - See question 6.  Collections of documents.
 8. Which is more flexible - SQL or MongoDB? and why.
