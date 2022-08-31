@@ -18,7 +18,7 @@
 1. What’s the relationship between REST and CRUD?
    - REST is an architectural system centered around resources and Hypermedia using HTTP commands. CRUD is a cycle meant to maintain records in a database setting. In its base form, CRUD is a way of manipulating information, describing the function of an application. REST is controlling data through HTTP commands.
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
-   - Bring in required depencies
+   - Bring in required dependencies
    - Setup routes and endpoints
    - Create Schema and Models
    - Build out CRUD
