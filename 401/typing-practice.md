@@ -3,8 +3,9 @@
 ## Index
 
 [Home](../README.md)  
+[Practice Results](#practice-results)
 
-## Results
+## Practice Results
 
 ![TypingLessonSummary01](../img/401/TypingLessonSummary01.png)
 ![TypingLessonSummary02](../img/401/TypingLessonSummary02.png)
