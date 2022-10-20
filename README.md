@@ -7,7 +7,7 @@
 [Code 101 & 102](#code-101--102)  
 [Code 201 Intro to Software Development](#code-201-intro-to-software-development)  
 [Code 301 Intermediate Software Development](#code-301-intermediate-software-development)  
-[Code 401 Advanced Software Development](#code-401-advanced-software-development)
+[Code 401 Java - Advanced Software Development](#code-401-java---advanced-software-development)
 
 ## Code 101 & 102
 
@@ -67,6 +67,7 @@ Having tested into 201, these are notes compiled while going over the prework de
 ### 401 Classes
 
 - [SQL Practice](./401/sql-practice.md)
+- [Typing Practice](./401/typing-practice.md)
 - [Class Reading 01:](./401/class-01.md)
 - [Class Reading 02:](./401/class-02.md)
 - [Class Reading 03:](./401/class-03.md)
