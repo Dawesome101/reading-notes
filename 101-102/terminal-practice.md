@@ -22,9 +22,9 @@
   - `-a` - Show hidden objects.
 - `cd` - Change Directories - ie. move to another directory.
 - `~` - This is a how you get to your home directory. `/home/ryan/Documents` or `~/Documents`
-- `.` - This is a reference to your current directory. If the current directory is say Documents, then it could also be written as '`/Documents` 
+- `.` - This is a reference to your current directory. If the current directory is say Documents, then it could also be written as '`/Documents`
 - `..` - This is a reference to the parent directory. you could run the command ls `../../` etc.
-- `touch <filename>` - Create a blank file. "touch" is actually a command we may use to modify the access and modification times on a file 
+- `touch <filename>` - Create a blank file. "touch" is actually a command we may use to modify the access and modification times on a file
 - `rm` - Delete file.
   - `-r` - Can be used to **delete a directory** and everything inside it.
 - `md` - Make directory
@@ -46,7 +46,7 @@
   - `man -k <search term>` - Do a keyword search for all manual pages containing the given search term.
   - **From within the manual**
     - `/<term>` - Used within a manual page, it will perform a search for 'term'
-    - `n` - After performing a search within a manual page, select the next found item. 
+    - `n` - After performing a search within a manual page, select the next found item.
 
 ## Important Directories
 
