@@ -70,6 +70,7 @@ Having tested into 201, these are notes compiled while going over the prework de
 - [Typing Practice](./401/typing-practice.md)
 - [GIT Practice](./401/git-practice.md)
 - [IntelliJ Practice](./401/intellij-practice.md)
+- [The Growth Mindset](./401/the-growth-mindset.md)
 - [Class Reading 01](./401/class-01.md)
 - [Class Reading 02](./401/class-02.md)
 - [Class Reading 03](./401/class-03.md)
