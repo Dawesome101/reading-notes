@@ -27,13 +27,13 @@ Pushing Yourself Through Deliberate Practice:
 - It's difficult
 - It requires good goals
 
-Seeking a grade (A, A+, ...) or any other form of constant validation/rewards that are not directly attached to effort and difficulty promote a "Fixed Mindset" instead of promoting "Critical Thinking". Chainging our systems of education to providing difficult problems which require real effort as well as using praise and reward for those efforts or when a solution is actually achived has been shown to greatly improve the ability of independant thinking in the individual.  
+Seeking a grade (A, A+, …) or any other form of constant validation/rewards that are not directly attached to effort and difficulty promotes a “Fixed Mindset” instead of promoting “Critical Thinking”. Changing our systems of education to provide difficult problems which require real effort as well as using praise and reward for those efforts or when a solution is actually achieved has been shown to greatly improve the ability of independent thinking in the individual.  
 
 > What we need in education is a better understanding of students and learning from a motivational perspective, a psychological perspective. *Angela Lee Duckworth*
 
-Grit is passion and perserverance. Grit is working really hard to achive a goal. People with grit are significantly more likely to achive goals (succeed) opposed to others who have high scores but don't apply themselves to a problem through passion and resolve.  
+Grit is passion and perseverance. Grit is working really hard to achieve a goal. People with grit are significantly more likely to achieve goals (succeed) opposed to others who have high scores but don’t apply themselves to a problem through passion and resolve.
 
-In light of all this, "success" and how it's defined, rises to the surface and begs for our attention.  
+In light of all this, “success” and how it’s defined, rises to the surface and begs for our attention.
 
 > Is success always earned? Is failure? *Alian de Bottom*
 
