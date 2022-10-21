@@ -1,5 +1,7 @@
 # Practicing the Terminal - [Linux Tutorials](https://ryanstutorials.net/linuxtutorial)
 
+## Index
+
 [HOME](../README.md)  
 [General Info](#general-info)  
 [Basic Commands](#basic-commands)  
