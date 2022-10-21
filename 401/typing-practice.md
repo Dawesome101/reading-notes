@@ -1,5 +1,6 @@
-# Typing Practice
+# [Typing Practice](https://typing.io/lessons)
 
+Type and explore open source code. These are the results of Java Guava typing course on typing.io/lessons
 ## Index
 
 [Home](../README.md)  

@@ -1,4 +1,6 @@
-# GIT Practice
+# [GIT Practice](https://learngitbranching.js.org/)
+
+A visual course for learning Git branching. These are the results of the tutorials.
 
 ## Index
 
