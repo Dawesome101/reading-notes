@@ -102,8 +102,6 @@ The statements inside your source files are generally executed from top to botto
 
 ### Explain Like I'm Five
 
-What does it mean to compile code?
-
 ![ELIFCompile](../img/401/elifcompile.png)
 
 ## Questions
