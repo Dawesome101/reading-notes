@@ -14,8 +14,8 @@
 
 ## Questions
 
-1. Which loops use a loop counter?
-   For loops
+1. Which loops use a loop counter?  
+   - For loops
 
 2. Describe 3 built-in methods for Arrays.
    - binarySearch
@@ -33,12 +33,12 @@
      - Odometer
      - Brakes
    - Windows
-     - Windshiled Wipers
+     - Windshield Wipers
      - Side window rolling up/down
      - Defrost
    - Engine
      - Gears
-     - Fule Injectors
+     - Fuel Injectors
      - Gas pedal
      - Intake
 
