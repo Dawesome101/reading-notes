@@ -14,7 +14,7 @@ DRY: "Every piece of knowledge must have a single, unambiguous, authoritative re
 
 Duplication is considered a bad practice in programming because it makes the code harder to maintain. When the rule encoded in a replicated piece of code changes, whoever maintains the code will have to change it in all places correctly.
 
-## [You Aren't Gonna Need It] and [Minimum Viable Product](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+## [You Aren't Gonna Need It](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) and [Minimum Viable Product](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 `You aren't gonna need it` (YAGNI) is a principle which arose from extreme programming (XP) that states a programmer should not add functionality until deemed necessary.  
 
